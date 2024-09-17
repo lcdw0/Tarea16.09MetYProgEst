@@ -1,0 +1,14 @@
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Tarea16.09.24Met\Ejercicio3\Ejercicio3\bin\Debug\net8.0\Ejercicio3.exe
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Tarea16.09.24Met\Ejercicio3\Ejercicio3\bin\Debug\net8.0\Ejercicio3.deps.json
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Tarea16.09.24Met\Ejercicio3\Ejercicio3\bin\Debug\net8.0\Ejercicio3.runtimeconfig.json
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Tarea16.09.24Met\Ejercicio3\Ejercicio3\bin\Debug\net8.0\Ejercicio3.dll
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Tarea16.09.24Met\Ejercicio3\Ejercicio3\bin\Debug\net8.0\Ejercicio3.pdb
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Tarea16.09.24Met\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Tarea16.09.24Met\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Tarea16.09.24Met\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.AssemblyInfo.cs
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Tarea16.09.24Met\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Tarea16.09.24Met\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.dll
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Tarea16.09.24Met\Ejercicio3\Ejercicio3\obj\Debug\net8.0\refint\Ejercicio3.dll
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Tarea16.09.24Met\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.pdb
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Tarea16.09.24Met\Ejercicio3\Ejercicio3\obj\Debug\net8.0\Ejercicio3.genruntimeconfig.cache
+C:\Users\mario\OneDrive\Documentos\SegundoSemestre\Tarea16.09.24Met\Ejercicio3\Ejercicio3\obj\Debug\net8.0\ref\Ejercicio3.dll
